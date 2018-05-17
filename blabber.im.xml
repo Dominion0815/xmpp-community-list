@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<server>
+        <Name>blabber.im</Name>
+        <NoIpLogging>1</NoIpLogging>
+        <AnonymousRegistration>1</AnonymousRegistration>
+        <HashedPassword>1</HashedPassword>
+        <EnforcedEncryption>1</EnforcedEncryption>
+        <HiddenService>0</HiddenService>
+        <SOCKS5ByteStream>1</SOCKS5ByteStream>
+        <PushNotifications>1</PushNotifications>
+        <XMPPOverTLS>1</XMPPOverTLS>
+        <BOSHProxy>1</BOSHProxy>
+        <Websocket>1</Websocket>
+        <HTTPUploadLimits>500 MB / 3 Tage</HTTPUploadLimits>
+        <MUC>1</MUC>
+        <OMEMO>1</OMEMO>
+        <DNSSEC>0</DNSSEC>
+        <ServerSoftware>ejabberd 18.04</ServerSoftware>
+        <ContactName>Stefan Giebel</ContactName>
+        <ContactPage>https://blabber.im/kontakt</ContactPage>
+        <URL>https://blabber.im/kontakt</URL>
+</server>
